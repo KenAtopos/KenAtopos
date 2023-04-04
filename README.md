@@ -15,7 +15,7 @@ Here are some of the projects I've been working on:
 - Designed and integrated API endpoints for message transfer and retrieval. Incorporated socket.io for real-time user interaction, ensuring message delivery less than 0.1s.
 
 ### Market App (Python, Flask, WTForms, Bootstrap, SQLite, REST, Jinja)
-[Demo](https://github.com/KenAtopos/Flask_Market_App)
+[Live](https://flask-market-h68n.onrender.com)
 
 - Structured the front-end user interface using Bootstrap and Jinja2 templates, resulting in a 50% reduction in time spent on writing duplicate code.
 - Built back-end using Flask, incorporated Flask-WTF for form generation, and implemented Flask-Security for advanced website protection, leading to a lightweight and resilient system.
