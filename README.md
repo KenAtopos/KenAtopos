@@ -1,46 +1,39 @@
-# Welcome to My GitHub Home Page
+# Hi, I'm Ken 👋
 
-Hi, I'm Yunjie(Ken), and this is my GitHub home page. I'm a software developer passionate about web development, machine learning, and open-source projects. 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenAtopos&hide_progress=true)
 
-## My Projects
+## The programming languages I use:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-Here are some of the projects I've been working on:
+## The frameworks and tools I use:
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Realtime Chat App (JavaScript, Node.js, MongoDB, Express.js, React.js, Axios, Socket.io, bcrypt)
-[Demo](https://github.com/KenAtopos/Realtime_Chat_App)
 
-- Led a team of 3, implemented MERN stack, established a highly scalable and fast-response web application.
-- Developed a dynamic and modular user interface with React, styled-components, and hooks. Employed Node.js and Express.js for back-end development. Utilized MongoDB to store user data and conversation history.
-- Managed HTTP requests with Axios for asynchronous data fetching, guaranteeing smooth data transmission between client and server. Applied bcrypt password hashing and salting, bolstering user data security.
-- Designed and integrated API endpoints for message transfer and retrieval. Incorporated socket.io for real-time user interaction, ensuring message delivery less than 0.1s.
-
-### Market App (Python, Flask, WTForms, Bootstrap, SQLite, REST, Jinja)
-[Live](https://flask-market-h68n.onrender.com)
-
-- Structured the front-end user interface using Bootstrap and Jinja2 templates, resulting in a 50% reduction in time spent on writing duplicate code.
-- Built back-end using Flask, incorporated Flask-WTF for form generation, and implemented Flask-Security for advanced website protection, leading to a lightweight and resilient system.
-- Leveraged SQLAlchemy for effective management of data in SQLite database, resulting in increased efficiency and decreased code error possibility.
-- Integrated RESTful APIs, allowing users to effortlessly finalize purchasing and selling with a positive experience.
-
-### Food Delivery App (JavaScript, HTML/CSS, Responsive)
-[Live](https://omnifood-kenatopos.netlify.app/)
-
-- Constructed a responsive website by implementing breakpoint strategies, ensuring compatibility and optimal user experience across various device sizes.
-- Optimized website performance by adjusting image sizes and implementing various optimizations, resulting in an 83.2% faster load time and significantly improved user experience.
-- Established a visual hierarchy that effectively directed users through content in the intended sequence.
-
-## Skills
-
-- Programming Languages: Python, JavaScript, Java, Motoko, HTML/CSS, SQL/NoSQL, LaTex
-- Frameworks and tools: Django, Flask, React.js, Node.js, Express.js, Bootstrap, jQuery, Linux, Git, Github, REST, Jupyter
-Notebook, AWS(Cloud Practitioner), Shopify
-- Databases: MongoDB(mongoose), SQLite(SQLAlchemy), MySQL, PostgreSQL
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/kenatopos/)
-- [Email](mailto:kenatopos@outlook.com)
-
-## About Me
-
-I'm currently pursuing a degree in Computer Science and have a strong interest in web development and artificial intelligence. In my free time, I enjoy contributing to open-source projects, learning new technologies, and sharing my knowledge with others.
+## The databases I use:
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
