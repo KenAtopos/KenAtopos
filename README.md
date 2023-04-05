@@ -4,8 +4,6 @@
 
 I love collaborating with fellow developers, exchanging knowledge, and contributing to open-source projects. Feel free to explore my repositories to get a glimpse of my work and interests. If you'd like to connect, discuss projects, or share ideas, don't hesitate to reach out! Let's build the future together!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenAtopos&hide_progress=true)
-
 ## The programming languages I use:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
