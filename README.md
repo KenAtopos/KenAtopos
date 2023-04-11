@@ -1,6 +1,6 @@
 # Hi, Welcome to my Github 👋
 
-#### Hello there! I'm Ken, a dedicated web developer and software engineer with a passion for creating innovative solutions and tackling complex challenges.
+#### Hello there! I'm Ken, a dedicated web developer with a passion for creating innovative solutions and tackling complex challenges.
 
 I love collaborating with fellow developers, exchanging knowledge, and contributing to open-source projects. Feel free to explore my repositories to get a glimpse of my work and interests. If you'd like to connect, discuss projects, or share ideas, don't hesitate to reach out! Let's build the future together!
 
